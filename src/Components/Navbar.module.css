@@ -1,0 +1,30 @@
+.nav{
+    height: 55px;
+    display: flex;    
+    
+    align-items:center;
+    justify-content:center;
+    background-color: #0029ff;
+    color: white;
+    word-spacing: 2px;        
+}
+
+.topic{
+    font-family:Roboto;
+    font-size: 15px;
+}
+
+.button{
+    margin-left: 10px;  
+    margin-top: 10px;   
+    background-color: white;
+    width:150px;        
+    letter-spacing: 2px;    
+    border-radius: 8px;    
+    border: 2px solid white;
+    color: #0029ff;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bolder;
+    padding: 6px 1px;   
+}
